@@ -1,0 +1,22 @@
+body
+{
+    background:#2e3440;
+    display: flex;
+    justify-content: center;
+}
+
+textarea{
+    width: 100%;
+    min-width: 200px;
+    margin:0;
+    padding:.5rem .5rem;
+    max-width:100%;
+    background:#3b4252;
+    border:0;
+    border-radius:.25rem;
+    font:inherit;
+    color:#fff;
+    font-size: 1.3em;
+    font-family: Simplified Arabic, Times New Roman, Arial;
+    direction: rtl;
+}
