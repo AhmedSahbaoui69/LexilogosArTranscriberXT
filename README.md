@@ -21,6 +21,7 @@ This browser extension streamlines Arabic writing by converting Latin letters to
 
 ### Firefox
 
+Update: Now available on [**Firefox Browser Add-ons**](https://addons.mozilla.org/en-US/firefox/addon/lexilogos-arabic-transcriber/)
 1. [**Download**](https://codeload.github.com/AhmedSahbaoui69/LexilogosArTranscriberXT/zip/refs/heads/main) the latest release.
 2. **Unzip the file.**
 3. Open your Firefox browser.
